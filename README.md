@@ -2,4 +2,4 @@
 
 i did it for fun in 20 minutes 
 
-<img src="image.jpg" alt="persian date time width="300" height="300" />
+<img src="image.jpg" alt="persian date time" width="300" height="300">
