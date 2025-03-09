@@ -1,0 +1,27 @@
+#clock{
+}
+body{
+    margin:   auto;
+
+    text-align: center;
+}
+#main{
+flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    /*background-color: cyan;*/
+    padding: 12px;
+    margin:   auto;
+    width: 100px;
+    height: 130px;
+    text-align: center;
+    border: solid 8px #09dc8a ;
+    /*border-radius: 30px ;*/
+    font-family: Vazirmatn, sans-serif;
+    /*backdrop-filter:opacity(0.1);*/
+    /*font-size: large;*/
+}
+#today{
+    color: red;
+    font-weight: bold;
+}

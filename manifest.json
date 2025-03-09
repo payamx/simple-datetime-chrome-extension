@@ -1,0 +1,11 @@
+{
+  "name": "تاریخ ",
+  "version": "1.0.0",
+  "description": "تاریخ و ساعت ایران ",
+  "manifest_version": 3,
+  "author": "Payam Rezaei",
+  "action":{
+    "default_popup": "index.html",
+    "default_title": "تاریخ امروز"
+  }
+}
