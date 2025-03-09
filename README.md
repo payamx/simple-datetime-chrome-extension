@@ -2,4 +2,4 @@
 
 i did it for fun in 20 minutes 
 
-![extension image ](image.jpg)
+<img src="image.jpg" alt="Your alt text" width="200" height="300">
