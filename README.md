@@ -1,4 +1,4 @@
-### simple persian datetime google chrome extentions 
+### simple persian datetime google chrome extension
 
 i did it for fun in less than 20 minutes 
 
